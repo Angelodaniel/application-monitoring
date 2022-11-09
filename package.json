@@ -1,0 +1,26 @@
+{
+  "name": "application-monitoring",
+  "version": "1.0.0",
+  "description": "Also called the Empower Plant UI/UX. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Features the following... - Error Monitoring...Performance Monitoring...Release Health... - BrowserTracing (Performance)   - Sentry.Profiler (class components)   - Sentry.withSentryRouting(Route); (react-router)   - FlaskIntegration, SqlAlchemyIntegration",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelodaniel/application-monitoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angelodaniel/application-monitoring/issues"
+  },
+  "homepage": "https://github.com/Angelodaniel/application-monitoring#readme",
+  "dependencies": {
+    "npm": "^7.8.0",
+    "serve": "^14.0.1"
+  }
+}
